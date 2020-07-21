@@ -1,18 +1,7 @@
-Pratik Parekh
-Tannu Singh
-Srishti Tiwary
+### [Hotel Recommendation System using Pyspark] (https://webpages.uncc.edu/stiwari8/)
 
 
-Amzaon Web Service
-EMR Notebook
+The project aims to provide recommendations of the hotels to a particular user based on the past history of his/her reviews and past data of other reviews.
+The goal of the project is to implement collaborative filtering and content based filtering algorithm with the help of Pyspark to build a recommendation system.
 
-Python: Version 3.6
-
-How to Run:
-
-Step1: Set up EMR Notebook Cluster
-Step2: Upload the submitted notebook and dataset in the your S3 bucket under folder 'Notebook/YOUR_NOTEBOOK_ID'
-Step3: open the Notebook cluster and open jupyter lab and 
-Step4: open the sumbitted notebook and change the kernel to "Pyspark" and change path to your s3 bucket in spark.read_csv function to read the dataset.
-step5: Change the location of input file to the location were input file is stored in S3.
-Step6: Run all cell of Notebook.
+![](https://github.com/tannu-singh/Hotel-Recommendation-System-/blob/master/Rating_Count.jpg)
