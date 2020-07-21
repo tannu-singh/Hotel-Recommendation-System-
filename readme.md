@@ -1,4 +1,4 @@
-### [Hotel Recommendation System using Pyspark] (https://webpages.uncc.edu/stiwari8/)
+### [Hotel Recommendation System using Pyspark](https://webpages.uncc.edu/stiwari8/)
 
 
 The project aims to provide recommendations of the hotels to a particular user based on the past history of his/her reviews and past data of other reviews.
